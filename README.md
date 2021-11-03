@@ -9,7 +9,7 @@ Make a shared state AJAX drawing program
 
 Resources
 =========================
-- Redirect: https://stackoverflow.com/a/14343957
+- Flask redirect: https://stackoverflow.com/a/14343957
 - Returning json response for Flask: https://stackoverflow.com/questions/13081532/return-json-response-from-flask-view
 - XMLHTTPResponse callback, and function call: https://stackoverflow.com/a/47825339
 - POST with XMLHTTPResponse: https://stackoverflow.com/a/39519299
